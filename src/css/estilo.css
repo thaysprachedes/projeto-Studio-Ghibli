@@ -1,0 +1,81 @@
+
+.fonte{
+
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    color: #c23658
+}
+
+body {
+    background-color:#F0FFFF
+
+
+
+}   
+#div1{
+    background-color: #F0FFFF;
+    height: 100px;
+    width:160x;
+
+}
+
+#div2{
+    position: absolute;
+    background-color: #FFDAB9;
+    height:500px;
+    width:250px;
+    border-style: double;
+    left: 34px;  
+    top: 220px;
+    border-color:#c23658 
+}
+#div3{
+    background-color: #ADD8E6;
+    height:150px;
+    width:100px;
+}
+#div4{
+    
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    color: #c23658
+    
+}
+#turmaghibli{
+    position: absolute;
+    left: 1100px;  
+    top: 60px;
+}
+
+#username{
+    position: absolute;
+    left: 0px;  
+    top: 0px;
+}
+
+#formdiv{
+    position: absolute;
+    height:550px;
+    width:450px;
+    border-style: solid;
+    left: 450px;  
+    top: 150px;
+    color: #20B2AA
+}
+
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.center2 {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
